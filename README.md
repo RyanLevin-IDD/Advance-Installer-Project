@@ -12,4 +12,4 @@ A sample project demonstrating a Windows Forms app installer using **Advanced In
 - [VT scan: MSI 0/43, Passed](https://www.virustotal.com/gui/file/06815b0c8945adf8f6956240a13f8ae676c1597f66c75bce7041c9f90af02467?nocache=1)
 - [VT scan: EXE 1/71, Fails](https://www.virustotal.com/gui/file/5751f2ae64fb1f8f81679464c1966750c1fb9b120d154f1c40e35125925b6d60/detection)
   - Symantec: ML.Attribute.HighConfidence
-- [VT scan: MSI_1Click 0/63, Passed](https://www.virustotal.com/gui/file/318f76f9bba579db1bd9b23b2a48d756c831ebbbf274d123c83038ee2e4a184f?nocache=1)
+- [VT scan: MSI_1Click 0/61, Passed](https://www.virustotal.com/gui/file/e006f7abb8229cdee2255f7f0bd4c1ff65d368615e8c16c4a163e8bbf62351f2?nocache=1)
